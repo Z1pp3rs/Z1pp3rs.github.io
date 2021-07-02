@@ -1,9 +1,9 @@
 body{
-    background-color: powderblue;
+    background-color: rgba(184, 187, 185, 0.39);
 }
 h1 {
-    color: blue;
+    color: orangered;
 }
 p{
-    color: red;
+    color: forestgreen;
 }
